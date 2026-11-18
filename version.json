@@ -1,8 +1,8 @@
 {
-  "versionCode": 28,
-  "versionName": "1.0.19",
+  "versionCode": 29,
+  "versionName": "1.0.20",
   "apk": "https://github.com/godsentme774/over-n-out-app/releases/latest/download/over-n-out.apk",
-  "notes": "Updates now arrive straight from GitHub, so new versions reach you faster. Nothing changes in how you use the app.",
+  "notes": "Clearer, steadier voice on weak connections, and your first words are no longer lost while your friend's phone joins.",
   "web": "1.0.19",
   "alertModes": true
 }
