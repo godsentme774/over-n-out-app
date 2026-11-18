@@ -1,8 +1,1 @@
-{
-  "versionCode": 28,
-  "versionName": "1.0.19",
-  "apk": "https://github.com/godsentme774/over-n-out-app/releases/latest/download/over-n-out.apk",
-  "notes": "Updates now arrive straight from GitHub, so new versions reach you faster. Nothing changes in how you use the app.",
-  "web": "1.0.19",
-  "alertModes": true
-}
+{"versionCode":29,"versionName":"1.0.20-githubtest","apk":"https://github.com/godsentme774/over-n-out-app/releases/latest/download/over-n-out.apk","notes":"GitHub notice test, ignore.","alertModes":true}
