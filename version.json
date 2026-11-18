@@ -1,8 +1,8 @@
 {
-  "versionCode": 29,
-  "versionName": "1.0.20",
+  "versionCode": 30,
+  "versionName": "1.0.21",
   "apk": "https://github.com/godsentme774/over-n-out-app/releases/latest/download/over-n-out.apk",
-  "notes": "Clearer, steadier voice on weak connections, and your first words are no longer lost while your friend's phone joins.",
-  "web": "1.0.19",
+  "notes": "A smaller download (about a quarter smaller), updates that resume if your connection drops, and faster, steadier alerts and voice.",
+  "web": "1.0.21",
   "alertModes": true
 }
