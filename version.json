@@ -1,8 +1,8 @@
 {
-  "versionCode": 31,
-  "versionName": "1.0.22",
+  "versionCode": 32,
+  "versionName": "1.0.23",
   "apk": "https://github.com/godsentme774/over-n-out-app/releases/latest/download/over-n-out.apk",
-  "notes": "Talk with no waiting, and voice messages: if your friend cannot hear you live, what you said reaches them as a message that plays with a pop-up.",
+  "notes": "Live voice connects sooner, stays connected, and no longer drops itself. The button says Recording until the live voice is ready.",
   "web": "1.0.22",
   "alertModes": true
 }
