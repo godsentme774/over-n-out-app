@@ -1,8 +1,8 @@
 {
-  "versionCode": 30,
-  "versionName": "1.0.21",
+  "versionCode": 31,
+  "versionName": "1.0.22",
   "apk": "https://github.com/godsentme774/over-n-out-app/releases/latest/download/over-n-out.apk",
-  "notes": "A smaller download (about a quarter smaller), updates that resume if your connection drops, and faster, steadier alerts and voice.",
-  "web": "1.0.21",
+  "notes": "Talk with no waiting, and voice messages: if your friend cannot hear you live, what you said reaches them as a message that plays with a pop-up.",
+  "web": "1.0.22",
   "alertModes": true
 }
